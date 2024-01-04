@@ -1,0 +1,35 @@
+[0.057s] Invoking command in '/home/gurkirat/Projects/dev_ws/build/my_bot': /usr/bin/cmake /home/gurkirat/Projects/dev_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gurkirat/Projects/dev_ws/install/my_bot
+[0.322s] -- The C compiler identification is GNU 9.4.0
+[0.502s] -- The CXX compiler identification is GNU 9.4.0
+[0.511s] -- Check for working C compiler: /usr/bin/cc
+[0.593s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.596s] -- Detecting C compiler ABI info
+[0.664s] -- Detecting C compiler ABI info - done
+[0.673s] -- Detecting C compile features
+[0.674s] -- Detecting C compile features - done
+[0.677s] -- Check for working CXX compiler: /usr/bin/c++
+[0.754s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.754s] -- Detecting CXX compiler ABI info
+[0.818s] -- Detecting CXX compiler ABI info - done
+[0.826s] -- Detecting CXX compile features
+[0.827s] -- Detecting CXX compile features - done
+[0.835s] CMake Error at CMakeLists.txt:19 (find_package):
+[0.835s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.835s]   has asked CMake to find a package configuration file provided by
+[0.835s]   "ament_cmake", but CMake did not find one.
+[0.835s] 
+[0.835s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.835s]   any of the following names:
+[0.835s] 
+[0.835s]     ament_cmakeConfig.cmake
+[0.835s]     ament_cmake-config.cmake
+[0.835s] 
+[0.835s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.835s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.835s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.835s]   has been installed.
+[0.835s] 
+[0.836s] 
+[0.836s] -- Configuring incomplete, errors occurred!
+[0.836s] See also "/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/CMakeOutput.log".
+[0.837s] Invoked command in '/home/gurkirat/Projects/dev_ws/build/my_bot' returned '1': /usr/bin/cmake /home/gurkirat/Projects/dev_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gurkirat/Projects/dev_ws/install/my_bot

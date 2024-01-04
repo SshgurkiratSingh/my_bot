@@ -1,0 +1,2 @@
+Invoking command in '/home/gurkirat/Projects/dev_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/gurkirat/Projects/dev_ws -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gurkirat/Projects/dev_ws/install/my_bot
+Invoked command in '/home/gurkirat/Projects/dev_ws/build/my_bot' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/gurkirat/Projects/dev_ws -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gurkirat/Projects/dev_ws/install/my_bot

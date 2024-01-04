@@ -1,0 +1,56 @@
+[1.849s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/gurkirat/Projects/dev_ws']
+[1.849s] DEBUG:colcon:Parsed command line arguments: Namespace(allow_overriding=[], base_paths=['/home/gurkirat/Projects/dev_ws'], build_base='build', ignore_user_meta=False, log_base=None, log_level=None, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7fef03fee5e0>>, metas=['./colcon.meta'], names_only=False, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, paths=None, paths_only=True, topological_graph=False, topological_graph_density=False, topological_graph_dot=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, topological_graph_legend=False, topological_order=False, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7fef03fee5e0>, verb_name='list', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7fef03e44910>)
+[1.939s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.939s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.939s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.939s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.939s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.939s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/gurkirat/Projects/dev_ws'
+[1.939s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extensions ['ignore', 'ignore_ament_install']
+[1.939s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'ignore'
+[1.939s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'ignore_ament_install'
+[1.940s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extensions ['colcon_pkg']
+[1.940s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'colcon_pkg'
+[1.940s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extensions ['colcon_meta']
+[1.940s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'colcon_meta'
+[1.940s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extensions ['ros']
+[1.940s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'ros'
+[1.955s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extensions ['cmake', 'python']
+[1.955s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'cmake'
+[1.955s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'python'
+[1.955s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extensions ['python_setup_py']
+[1.955s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws) by extension 'python_setup_py'
+[1.955s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/build) by extensions ['ignore', 'ignore_ament_install']
+[1.955s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/build) by extension 'ignore'
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/build) ignored
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/install) by extensions ['ignore', 'ignore_ament_install']
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/install) by extension 'ignore'
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/install) ignored
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/log) by extensions ['ignore', 'ignore_ament_install']
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/log) by extension 'ignore'
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/log) ignored
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extensions ['ignore', 'ignore_ament_install']
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'ignore'
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'ignore_ament_install'
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extensions ['colcon_pkg']
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'colcon_pkg'
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extensions ['colcon_meta']
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'colcon_meta'
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extensions ['ros']
+[1.956s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'ros'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extensions ['cmake', 'python']
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'cmake'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'python'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extensions ['python_setup_py']
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src) by extension 'python_setup_py'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extensions ['ignore', 'ignore_ament_install']
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extension 'ignore'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extension 'ignore_ament_install'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extensions ['colcon_pkg']
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extension 'colcon_pkg'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extensions ['colcon_meta']
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extension 'colcon_meta'
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extensions ['ros']
+[1.957s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gurkirat/Projects/dev_ws/src/my_bot) by extension 'ros'
+[1.959s] DEBUG:colcon.colcon_core.package_identification:Package '/home/gurkirat/Projects/dev_ws/src/my_bot' with type 'ros.ament_cmake' and name 'my_bot'
+[1.959s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

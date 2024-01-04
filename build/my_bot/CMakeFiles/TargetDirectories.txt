@@ -1,0 +1,9 @@
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/install/strip.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/install/local.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/install.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/list_install_components.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/rebuild_cache.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/edit_cache.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/test.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/my_bot_uninstall.dir
+/home/gurkirat/Projects/dev_ws/build/my_bot/CMakeFiles/uninstall.dir

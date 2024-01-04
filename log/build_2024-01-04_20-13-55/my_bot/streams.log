@@ -1,0 +1,4 @@
+[0.116s] Invoking command in '/home/gurkirat/Projects/dev_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/gurkirat/Projects/dev_ws -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gurkirat/Projects/dev_ws/install/my_bot
+[0.126s] CMake Error: The source directory "/home/gurkirat/Projects/dev_ws" does not appear to contain CMakeLists.txt.
+[0.126s] Specify --help for usage, or press the help button on the CMake GUI.
+[0.127s] Invoked command in '/home/gurkirat/Projects/dev_ws/build/my_bot' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/gurkirat/Projects/dev_ws -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gurkirat/Projects/dev_ws/install/my_bot
