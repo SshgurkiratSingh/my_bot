@@ -1,7 +1,10 @@
 /home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/config/empty.yaml
+/home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/config/view_bot_rviz.rviz
+/home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/description/gazebo_control.xacro
 /home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/description/inertial_macros.xacro
 /home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/description/robot_core.xacro
+/home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/launch/launch_sim.launch.py
 /home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/launch/rsp.launch.py
 /home/gurkirat/Projects/dev_ws/install/my_bot/share/my_bot/worlds/empty.world
 /home/gurkirat/Projects/dev_ws/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
